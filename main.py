@@ -5,7 +5,7 @@ class classname(object):
     """
     docstring
     """
-    pass
+    int sa 
     
 
 main ()
